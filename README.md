@@ -3,7 +3,7 @@
 💬 Ask me about
 
 [![GitHub](https://img.shields.io/static/v1?label=Github&message=me&color=lightgrey)](https://github.com/sugar258596)
-[![wechat](https://img.shields.io/static/v1?label=Wechat&message=me&color=brightgreen)]()
+[![wechat](https://img.shields.io/static/v1?label=Wechat&message=me&color=brightgreen)](Tangtang-Like)
 [![email](https://img.shields.io/static/v1?label=QQ&message=email&color=blue)](mailto:1260698917@qq.com)
 
 📝 blog
